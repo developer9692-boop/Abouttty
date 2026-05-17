@@ -1,7 +1,7 @@
 <?php
 
 // ================= CONFIG =================
-define('BOT_TOKEN', '8669859381:AAEXATKTVgmuOHg1Jg9hQ84YBjq9L7Z6G28');
+define('BOT_TOKEN', '8747711735:AAGbS6V_rO_bMep2ieP2MYYionQz6mzF3wY');
 define('API_URL', 'https://api.telegram.org/bot' . BOT_TOKEN . '/');
 
 define('OWNER_ID', 6808803040);
